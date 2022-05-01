@@ -4,5 +4,7 @@ class Halo
 	{
 		System.out.println("Halo");
 		System.out.println("Halo");
+		System.out.println("Welcome to Java and Git Programming!");
+		System.out.println("Programming is awesome");
 	}
 }
